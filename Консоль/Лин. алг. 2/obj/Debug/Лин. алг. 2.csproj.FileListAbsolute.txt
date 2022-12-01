@@ -1,0 +1,21 @@
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\bin\Debug\Лин.алг._2.exe.config
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\bin\Debug\Лин.алг._2.exe
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\bin\Debug\Лин.алг._2.pdb
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\obj\Debug\Лин. алг. 2.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\obj\Debug\Лин. алг. 2.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\obj\Debug\Лин.алг._2.exe
+D:\Users\stu-pksp120\Desktop\Щербаков\Лин. алг. 2\Лин. алг. 2\obj\Debug\Лин.алг._2.pdb
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.exe.config
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.exe
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.pdb
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин. алг. 2.csprojAssemblyReference.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин. алг. 2.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин.алг._2.exe
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин.алг._2.pdb
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.exe.config
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.exe
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\bin\Debug\Лин.алг._2.pdb
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин. алг. 2.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин. алг. 2.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин.алг._2.exe
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 2\Консоль\Лин. алг. 2\obj\Debug\Лин.алг._2.pdb

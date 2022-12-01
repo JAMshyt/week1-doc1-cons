@@ -1,0 +1,39 @@
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\stu-pksp120\Desktop\Щербаков\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Практика\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\stu-pksp120\Desktop\Практика К\Щербаков\Линейные алгоритмы\Лин. алг. 1\Консоль\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
